@@ -1,9 +1,33 @@
 <h1 align="center">Hola comunidad👋, Soy: jomarbp</h1>
 <h3 align="center">Desarrollador Freelance, y en este perfil encontrarás recursos tecnológicos</h3>
 
+- 🔭 Actualmente estoy trabajando en: [Desarrollo de un asistente virtual con IA](joeai.com)
+
+- 🌱 Actualmente estoy aprendiendo: **TensorFlow, PyTorch, cursos avanzados de IA y machine learning**
+
+- 👯 Busco colaborar en: [Plataforma de análisis de datos con IA](joeai.com)
+
+- 🤝 Estoy buscando ayuda con: [Sistema de recomendación basado en IA](joeai.com)
+
+- 👨‍💻 Todos mis proyectos están disponibles en: [Portafolio](Portafolio)
+
+- 📝 Escribo regularmente artículos en: [Blog](Blog)
+
+- 💬 Pregúntame sobre: **React, Vue y GSAP**
+
+- 📫 Cómo contactarme: **jomar.bp17@gmail.com**
+
+- 📄 Conoce mis experiencias: [Currículum](Currículum)
+
+- ⚡ Dato curioso: **Creo que soy gracioso**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/jomar17_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jomar17_30" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jburgospalacios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jburgospalacios" height="30" width="40" /></a>
 <a href="https://fb.com/joburgosp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joburgosp" height="30" width="40" /></a>
+<a href="https://instagram.com/jomar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jomar__" height="30" width="40" /></a>
+<a href="https://discord.gg/jomarbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jomarbp" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
