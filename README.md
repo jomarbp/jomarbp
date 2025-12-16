@@ -1,34 +1,244 @@
-<h1 align="center">Hola comunidad👋, Soy: jomarbp</h1>
-<h3 align="center">Desarrollador Freelance, y en este perfil encontrarás recursos tecnológicos</h3>
+<div align="center">
 
-- 🔭 Actualmente estoy trabajando en: [Desarrollo de un asistente virtual con IA](joeai.com)
+# 👨‍💻 Joel Omar Burgos Palacios
 
-- 🌱 Actualmente estoy aprendiendo: **TensorFlow, PyTorch, cursos avanzados de IA y machine learning**
+### `AI Engineer` · `Fullstack Developer` · `Tech Educator`
 
-- 👯 Busco colaborar en: [Plataforma de análisis de datos con IA](joeai.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+the+Future+with+AI;8%2B+Years+of+Experience;40%2B+Tech+Certifications;Teaching+%26+Innovating" alt="Typing SVG" />
 
-- 🤝 Estoy buscando ayuda con: [Sistema de recomendación basado en IA](joeai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jburgospalacios)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jomar17_30)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jomarbp.github.io/portfolio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomar.bp17@gmail.com)
 
-- 👨‍💻 Todos mis proyectos están disponibles en: [Portafolio](Portafolio)
+</div>
 
-- 📝 Escribo regularmente artículos en: [Blog](Blog)
+---
 
-- 💬 Pregúntame sobre: **React, Vue y GSAP**
+## 🚀 Sobre Mí
 
-- 📫 Cómo contactarme: **jomar.bp17@gmail.com**
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Joel Omar Burgos Palacios"
+        self.role = "AI Engineer & Fullstack Developer"
+        self.location = "Talara, Piura - Perú 🇵🇪"
+        self.education = "Ingeniería de Sistemas"
+        
+    def current_work(self):
+        return {
+            "🏢 Position": "Jefe de TI @ OJB Soluciones",
+            "🎓 Teaching": "SENATI & I.S.T.P Luciano Castillo",
+            "🤖 Focus": "AI, Machine Learning & Automation"
+        }
+    
+    def expertise(self):
+        return {
+            "AI/ML": ["TensorFlow", "PyTorch", "Data Science", "Neural Networks"],
+            "Backend": ["Python", "PHP", "Node.js", "MySQL", "PostgreSQL"],
+            "Frontend": ["React", "Vue", "Angular", "JavaScript", "TypeScript"],
+            "DevOps": ["Docker", "AWS", "Linux", "Nginx", "Git"],
+            "Mobile": ["React Native", "Flutter", "Ionic", "Android"]
+        }
 
-- 📄 Conoce mis experiencias: [Currículum](Currículum)
+me = AIEngineer()
+```
 
-- ⚡ Dato curioso: **Creo que soy gracioso**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jomar17_30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jomar17_30" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jburgospalacios" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jburgospalacios" height="30" width="40" /></a>
-<a href="https://fb.com/joburgosp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joburgosp" height="30" width="40" /></a>
-<a href="https://instagram.com/jomar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jomar__" height="30" width="40" /></a>
-<a href="https://discord.gg/jomarbp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jomarbp" height="30" width="40" /></a>
-</p>
+## 🔥 Proyectos Destacados
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+
+| 🚀 Proyecto | 📝 Descripción | 🛠️ Tech Stack |
+|------------|----------------|---------------|
+| **[JoeAI Assistant](https://github.com/jomarbp/joeai)** | Asistente virtual con IA conversacional y NLP | Python, TensorFlow, FastAPI |
+| **[AI Data Platform](https://github.com/jomarbp/ai-platform)** | Plataforma de análisis de datos con ML | React, Python, PostgreSQL |
+| **[Smart Recommender](https://github.com/jomarbp/recommender)** | Sistema de recomendación basado en IA | PyTorch, Flask, MongoDB |
+| **[Moodle Advanced](https://github.com/jomarbp/moodle-custom)** | Plataforma educativa personalizada | PHP, MySQL, JavaScript |
+
+</div>
+
+---
+
+## 💼 Experiencia Profesional
+
+```yaml
+🏢 OJB Soluciones Informática:
+  role: "Jefe de Tecnología de la Información"
+  period: "2017 - Actualidad (8 años)"
+  highlights:
+    - Liderazgo en transformación digital
+    - Arquitectura de soluciones empresariales
+    - Gestión de proyectos TI complejos
+
+🎓 SENATI - Escuela de Tecnología Industrial:
+  role: "Instructor de Informática"
+  period: "2023 - Actualidad"
+  highlights:
+    - Formación en desarrollo fullstack
+    - Cursos de IA y Machine Learning
+    - Mentoría técnica avanzada
+
+📚 I.S.T.P "Luciano Castillo Colonna":
+  role: "Docente - Desarrollo de Sistemas"
+  period: "2020 - Actualidad (6 años)"
+  highlights:
+    - Diseño curricular tecnológico
+    - Enseñanza de frameworks modernos
+    - Proyectos aplicados con estudiantes
+```
+
+---
+
+## 🎯 Actualmente
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=jomarbp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=E0E6ED" />
+
+- 🔭 **Trabajando en:** Asistente virtual con IA conversacional
+- 🌱 **Aprendiendo:** TensorFlow, PyTorch, Transformers
+- 👯 **Buscando colaborar en:** Proyectos de IA y ML
+- 🤝 **Necesito ayuda con:** Sistemas de recomendación avanzados
+- 💬 **Pregúntame sobre:** React, Vue, Python, IA, Arquitectura Cloud
+- 📫 **Contacto:** jomar.bp17@gmail.com
+- ⚡ **Fun fact:** Apasionado por la enseñanza y la innovación tecnológica
+
+---
+
+## 🛠️ Tech Stack
+
+### 🤖 Inteligencia Artificial & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 💻 Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 📱 Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🎮 Otras Tecnologías
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=jomarbp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00FF88&text_color=E0E6ED" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jomarbp&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00FF88&currStreakLabel=00D4FF" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomarbp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=E0E6ED" />
+
+</div>
+
+---
+
+## 🏆 Certificaciones Destacadas
+
+<div align="center">
+
+| 🎓 Certificación | 🏢 Institución | 📅 Año |
+|-----------------|---------------|--------|
+| 🤖 Artificial Intelligence Fundamentals | IBM SkillsBuild | 2025 |
+| ⚡ Automatizaciones con N8N e IA | Raiola Networks | 2025 |
+| 🐍 Python Básico - Intermedio | Universidad Nacional de Piura | 2021 |
+| 📊 Introduction to Data Science | Cisco Networking Academy | 2023 |
+| 🔐 Introducción a la Seguridad Cibernética | Cisco Systems | 2021 |
+| 📱 Desarrollo de Aplicaciones Móviles | JF Soporte TI | 2023 |
+| 🗣️ Intensive English Level B2 | Instituto GECAP | 2025 |
+
+**Total:** 40+ certificaciones en tecnología, IA, desarrollo y educación
+
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] 🚀 Lanzar 3 proyectos de código abierto en IA
+- [ ] 📚 Publicar 24 artículos técnicos sobre ML
+- [ ] 🎓 Capacitar a 500+ estudiantes en tecnología
+- [ ] 🤝 Colaborar en proyectos internacionales
+- [ ] 🏆 Obtener certificaciones avanzadas en Deep Learning
+- [ ] 💼 Expandir OJB Soluciones a nivel nacional
+
+---
+
+## 📝 Últimos Posts del Blog
+
+<!-- BLOG-POST-LIST:START -->
+- 🤖 [Introducción a Transformers y BERT en NLP](https://blog.jomarbp.dev/transformers-nlp)
+- 🐍 [Python para Data Science: Guía Completa 2025](https://blog.jomarbp.dev/python-data-science)
+- ⚡ [Automatizando Workflows con IA y N8N](https://blog.jomarbp.dev/automation-ai-n8n)
+- 🎨 [React vs Vue: ¿Cuál elegir en 2025?](https://blog.jomarbp.dev/react-vs-vue-2025)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📬 Conecta Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jburgospalacios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jburgospalacios)
+[![Twitter](https://img.shields.io/badge/Twitter-@jomar17__30-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jomar17_30)
+[![Facebook](https://img.shields.io/badge/Facebook-joburgosp-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/joburgosp)
+[![Instagram](https://img.shields.io/badge/Instagram-@jomar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jomar__)
+[![Discord](https://img.shields.io/badge/Discord-jomarbp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jomarbp)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "La mejor manera de predecir el futuro es crearlo" - Alan Kay
+
+![Profile Views](https://komarev.com/ghpvc/?username=jomarbp&color=00D4FF&style=for-the-badge)
+
+⭐️ From [jomarbp](https://github.com/jomarbp) | Made with 💙 and ☕
+
+</div>
